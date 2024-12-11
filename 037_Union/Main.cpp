@@ -7,7 +7,7 @@ struct Vector2
 
 struct Vector4 
 {
-	union  // occupying the same memory (same member) 
+	union  // occupying the same memory (same member) ; set the memory to largest valriable size;
 	{
 		struct 
 		{
