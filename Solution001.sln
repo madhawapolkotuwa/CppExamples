@@ -3,37 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "000_LogClass", "LogClass\LogClass.vcxproj", "{37CD0260-BCAA-41AC-8130-4BAA6ECFB476}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "000_LogClass", "000_LogClass\LogClass.vcxproj", "{37CD0260-BCAA-41AC-8130-4BAA6ECFB476}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_StaticVariables", "StaticVariables\StaticVariables.vcxproj", "{EEF1F8CC-F74A-4CAC-A737-4581BCF19EF4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_StaticVariables", "001_StaticVariables\StaticVariables.vcxproj", "{EEF1F8CC-F74A-4CAC-A737-4581BCF19EF4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002_Constructors", "Constructors\Constructors.vcxproj", "{3FD53098-E299-42F5-A9A7-F42B92D56954}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002_Constructors", "002_Constructors\Constructors.vcxproj", "{3FD53098-E299-42F5-A9A7-F42B92D56954}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003_Inheritance", "Inheritance\Inheritance.vcxproj", "{B697BCBC-78EF-4C4C-958C-CDB352F685A5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003_Inheritance", "003_Inheritance\Inheritance.vcxproj", "{B697BCBC-78EF-4C4C-958C-CDB352F685A5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_VirtualFunctions", "VirtualFunctions\VirtualFunctions.vcxproj", "{10010130-A479-41B6-AFF0-51D06891FD91}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_VirtualFunctions", "004_VirtualFunctions\VirtualFunctions.vcxproj", "{10010130-A479-41B6-AFF0-51D06891FD91}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005_Array", "Array\Array.vcxproj", "{6FA2E955-8E69-4C71-8BE5-5ABDBC8FE527}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005_Array", "005_Array\Array.vcxproj", "{6FA2E955-8E69-4C71-8BE5-5ABDBC8FE527}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006_Strings", "Strings\Strings.vcxproj", "{F54A74DE-8E6F-4B8E-BB80-EB3AD09D1BAF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006_Strings", "006_Strings\Strings.vcxproj", "{F54A74DE-8E6F-4B8E-BB80-EB3AD09D1BAF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007_Constants", "Constants\Constants.vcxproj", "{AE1B26E4-45B6-43C4-B65F-81D856D06177}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007_Constants", "007_Constants\Constants.vcxproj", "{AE1B26E4-45B6-43C4-B65F-81D856D06177}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008_Mutable", "Mutable\Mutable.vcxproj", "{1C73140D-DB67-4543-9AEA-FB5C1A5C16B7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008_Mutable", "008_Mutable\Mutable.vcxproj", "{1C73140D-DB67-4543-9AEA-FB5C1A5C16B7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_MemberInitializerLists", "MemberInitializerLists\MemberInitializerLists.vcxproj", "{58EA0D32-7C50-41B3-9B23-2FF27D01C34F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_MemberInitializerLists", "009_MemberInitializerLists\MemberInitializerLists.vcxproj", "{58EA0D32-7C50-41B3-9B23-2FF27D01C34F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010_InstanceObj", "InstanceObj\InstanceObj.vcxproj", "{D30210E0-D75E-4BCA-91B1-F27914278711}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010_InstanceObj", "010_InstanceObj\InstanceObj.vcxproj", "{D30210E0-D75E-4BCA-91B1-F27914278711}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011_NewKeyWord", "NewKeyWord\NewKeyWord.vcxproj", "{7DC2B40B-756D-44F8-8EE0-F9827441308F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011_NewKeyWord", "011_NewKeyWord\NewKeyWord.vcxproj", "{7DC2B40B-756D-44F8-8EE0-F9827441308F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013_ImplicitConversionAndExplicitKeyword", "ImplicitConversionAndExplicitKeyword\ImplicitConversionAndExplicitKeyword.vcxproj", "{CD665389-4181-4C6C-A79E-6B6D33AA64A0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013_ImplicitConversionAndExplicitKeyword", "013_ImplicitConversionAndExplicitKeyword\ImplicitConversionAndExplicitKeyword.vcxproj", "{CD665389-4181-4C6C-A79E-6B6D33AA64A0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012_Operators", "Operators\Operators.vcxproj", "{BD489FFA-45D0-412A-BB8B-FE945086D0C2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012_Operators", "012_Operators\Operators.vcxproj", "{BD489FFA-45D0-412A-BB8B-FE945086D0C2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014_ThisKeyword", "ThisKeyword\ThisKeyword.vcxproj", "{C792BFFD-0302-4E40-B038-554363B63B06}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014_ThisKeyword", "014_ThisKeyword\ThisKeyword.vcxproj", "{C792BFFD-0302-4E40-B038-554363B63B06}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015_StackHeep", "StackHeep\StackHeep.vcxproj", "{25F43365-29C8-4B29-9DA0-883845B97404}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015_StackHeep", "015_StackHeep\StackHeep.vcxproj", "{25F43365-29C8-4B29-9DA0-883845B97404}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "016_SmartPointers", "016_SmartPointers\016_SmartPointers.vcxproj", "{EAA6BC1D-CBED-45AF-BB14-9707D07D2C02}"
 EndProject
