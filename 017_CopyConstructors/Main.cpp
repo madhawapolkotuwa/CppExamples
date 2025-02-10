@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring> // for strlen() and memcpy()
 
 class String
 {

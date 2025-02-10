@@ -22,8 +22,11 @@ public:
 	{
 		for (int i = 0; i < Size; i++)
 		{
-			std::cout << m_Entries[i].Data << "(" << m_Entries[i].Status << ")" << std::endl;
+			if(m_Entries[i].Status == "occupied")
+				std::cout << m_Entries[i].Data << ' ';
+			//std::cout << m_Entries[i].Data << "(" << m_Entries[i].Status << ")" << std::endl;
 		}
+		std::cout << std::endl;
 	}
 
 	void Add(const std::string& entryString)
@@ -95,6 +98,9 @@ int main()
 {
 	// in- Aapple Aorange Dapple Astrawberry ... A - add  D - Delete
 	// out- orange strawberry
+
+	// in - Daa Daaa Aaa Aaaa Aaaaaa Daaa Daa Aa Daaaaaaa Aaaaaaa
+	// out - aa aaa aaaaa a aaaaaa
 	
 	std::string input;
 	getline(std::cin,input);
@@ -118,6 +124,7 @@ int main()
 		}
 		else if (token[0] == 'D')
 		{
+			hashTable.Delete(entryName);
 			//std::cout << "Delete -" << entryName << std::endl;
 		}
 	}
